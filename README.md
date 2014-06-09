@@ -7,7 +7,7 @@ Let the Django template context contain the value `status = { 'user': 'Alice' }`
 This line in the template:
 
 ```
-{{ status | jsobject:'initialStatus' }}
+{{ status | jsdata:'initialStatus' }}
 ```
 
 produces this HTML:
