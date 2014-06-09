@@ -1,1 +1,1 @@
-# Django jsdata tag
+# Django `jsdata` tag
