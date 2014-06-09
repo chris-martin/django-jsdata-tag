@@ -10,7 +10,7 @@ This line in the template:
 {{ status | jsobject:'initialStatus' }}
 ```
 
-Produces this HTML:
+produces this HTML:
 
 ```html
 <script id="initialStatus-json" type="application/json">
