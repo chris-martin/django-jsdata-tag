@@ -1,1 +1,1 @@
-# Django JSON Tag
+# Django JS Data Tag
